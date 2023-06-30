@@ -1,0 +1,27 @@
+W - Move forward
+A - Move left
+S - Move backward
+D - Move right
+Q - Move servo neck left
+E - Move servo neck right
+G - Arm default position
+H - Arm sub-attack position
+J - Arm attack position
+P - ping motors
+K - Look down arm position
+R - Get the neck to the default position
+L - Get the robot to see backwards moving the arm
+I - Change  consulted information about the servos
+M - Move tail
+L - seems like i added the same letter again, wtf
+T - Move the flipper to its default state
+TAB - Change servo arm speed
+SPACE - Change motor speed
+KP0 - Move elbow servo down
+KP1 - Move elbow servo up
+KP8 - Move shoulder up
+KP2 - Move shoulder down
+KP4 - Open claw
+KP6 - Close claw
+KP7 - Move flipper down
+KP8 - Move flipper up
