@@ -1,0 +1,6 @@
+see how to change motor handler and wrapper
+see if you can change a little bit about control receiver
+remember motor handler is all 4 motors, motor wrapper is for individual motors
+see anything related to the interface/other side of the thing
+
+
